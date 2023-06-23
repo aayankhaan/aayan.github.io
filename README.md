@@ -1,4 +1,4 @@
-  </style>
+
 </head>
 <body>
   <h1>My Personal Information</h1>
@@ -28,6 +28,7 @@
     </li>
     <!-- Add more project items if needed -->
   </ul>
+  
 <h2>Hire me</h2>h2>
 <p>If you want to Hire me for making mapart then Contact me.</p>
   <footer>
