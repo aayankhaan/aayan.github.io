@@ -29,7 +29,7 @@
     <!-- Add more project items if needed -->
   </ul>
   
-<h2>Hire me</h2>h2>
+<h2>Hire me</h2>
 <p>If you want to Hire me for making mapart then Contact me.</p>
   <footer>
     <p>© 2023 My Personal Website. All rights reserved.</p>
